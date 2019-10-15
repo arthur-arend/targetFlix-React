@@ -1,0 +1,15 @@
+.Card {
+    width: 250px;
+    height: 130px;
+    border-radius: 5%;
+    display: inline-block;
+    margin-right: 15px;
+    box-shadow: #e3e3e3;
+    padding: 15px;
+    color: #fff;
+    background-size: 100% 100%;
+}
+.Card:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
